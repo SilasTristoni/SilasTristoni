@@ -3,6 +3,7 @@
 **`Estudante de análise e desenvolvimento de sistemas`**
 
 Sobre Mim
+
 Me chamo Silas, tenho 19 anos e sou natural de Joinville, Santa Catarina. 
 Concluí o ensino médio e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS). Apaixonado por tecnologia e programação, busco compartilhar meus conhecimentos e experiências no universo do desenvolvimento de sistemas. Estou sempre aprendendo sobre novas ferramentas, linguagens de programação e tendências do mercado. Meu objetivo é crescer como profissional de tecnologia, aplicando minha criatividade e habilidades para criar soluções que gerem impacto positivo.
 
