@@ -18,7 +18,7 @@
   <a href="mailto:silas.tristoni12@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-silas.tristoni12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://www.linkedin.com/in/silas-tristoni" target="_blank">
+  <a href="https://www.linkedin.com/in/silas-tristoni-474125205/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Silas%20Tristoni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://github.com/SilasTristoni" target="_blank">
