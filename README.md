@@ -1,30 +1,17 @@
-<h1 align="left">E aí 👋 Tudo certo?</h1>
+<h1 align="left">E aí, tudo certo? 👋</h1>
 
 ###
 
 <p align="left">
-  Meu nome é <strong>Silas Tristoni</strong> e sou <strong>estudante de Análise e Desenvolvimento de Sistemas</strong>, de Joinville - SC.
+  Meu nome é <strong>Silas Tristoni</strong>, sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e moro em Joinville - SC.
 </p>
-
-###
 
 <p align="left">
-  👨🏻‍💻 Desenvolvedor em formação &nbsp;|&nbsp; 🧠 Resolução de problemas &nbsp;|&nbsp; 🎮 Mentalidade gamer &nbsp;|&nbsp; 📊 SQL & Backend enthusiast
+  👨🏻‍💻 Desenvolvedor em formação &nbsp;•&nbsp;
+  🧠 Resolução de problemas &nbsp;•&nbsp;
+  🎮 Mentalidade gamer &nbsp;•&nbsp;
+  📊 SQL e Backend
 </p>
-
-###
-
-<div align="left">
-  <a href="mailto:silas.tristoni12@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-silas.tristoni12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://www.linkedin.com/in/silas-tristoni-474125205/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Silas%20Tristoni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://github.com/SilasTristoni" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-SilasTristoni-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-</div>
 
 ###
 
@@ -37,8 +24,8 @@
   📚 Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> no Senac Joinville<br>
   💻 Tenho experiência com suporte técnico, análise SQL, logs, documentação e investigação de problemas em sistemas<br>
   🧩 Gosto de entender problemas reais e transformar ideias em soluções práticas<br>
-  🎯 Objetivo: crescer como profissional de TI, atuando com desenvolvimento, banco de dados, análise de sistemas ou dados<br>
-  🎲 Curiosidade: vejo programação como um jogo — cada bug é uma missão, cada projeto é uma nova fase e cada melhoria é uma habilidade desbloqueada
+  🎯 Meu objetivo é crescer como profissional de TI, atuando com desenvolvimento, banco de dados, análise de sistemas ou dados<br>
+  🎮 Vejo programação como um jogo: cada bug é uma missão, cada projeto é uma nova fase e cada melhoria é uma habilidade desbloqueada
 </p>
 
 ###
@@ -52,7 +39,7 @@
   🗄️ Banco de dados com <strong>MySQL, SQL Server e consultas SQL</strong><br>
   📊 Análise de dados com <strong>Python e SQL</strong><br>
   🌐 Fundamentos de frontend com <strong>HTML, CSS, JavaScript e React</strong><br>
-  🧪 Fluxo de trabalho no GitHub com <strong>branches, pull requests, documentação e versionamento</strong><br>
+  🧪 GitHub com <strong>branches, pull requests, documentação e versionamento</strong><br>
   🐳 Organização de ambientes com <strong>Docker</strong>
 </p>
 
@@ -62,24 +49,18 @@
 
 ###
 
-<p align="left">
-  Essas são as linguagens que mais utilizo em estudos, projetos acadêmicos, análise de dados e desenvolvimento de sistemas:
-</p>
-
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" title="Java" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="sql logo" title="SQL / MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="SQL" title="SQL / MySQL" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3" />
 </div>
 
 ###
@@ -99,11 +80,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" title="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" title="Dart" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" title="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" />
 </div>
 
 ###
@@ -120,23 +101,23 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring Boot" title="Spring Boot" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" title="Node.js" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" title="React" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo" title="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="Flutter" title="Flutter" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="sqlite logo" title="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="SQLite" title="SQLite" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" title="GitHub" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker" />
 </div>
 
 ###
@@ -244,18 +225,8 @@
 ###
 
 <div align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SilasTristoni&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilasTristoni&layout=compact&langs_count=8&theme=radical" alt="top languages" />
-</div>
-
-###
-
-<h2 align="left">Sequência de contribuições</h2>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=SilasTristoni&theme=radical&hide_border=false" alt="GitHub streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SilasTristoni&show_icons=true&theme=radical&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilasTristoni&layout=compact&theme=radical&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
 </div>
 
 ###
